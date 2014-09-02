@@ -20,13 +20,5 @@
     "bugs": {
         "url": "https://github.com/liuxuanzy/saber-query/issues"
     },
-    "homepage": "https://github.com/liuxuanzy/saber-query",
-    "edp": {
-        "wwwroot": "/",
-        "depDir": "dep",
-        "srcDir": "src",
-        "loaderAutoConfig": "js,htm,html,tpl,vm,phtml",
-        "loaderUrl": "http://s1.bdstatic.com/r/www/cache/ecom/esl/1-8-2/esl.js",
-        "dependencies": {}
-    }
+    "homepage": "https://github.com/liuxuanzy/saber-query"
 }
